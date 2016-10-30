@@ -13,6 +13,7 @@
         android:textSize="25sp"
         android:textColor="#CC12CC"/>
     <ListView android:id="@+id/list1"
+<<<<<<< HEAD
         android:layout_width="164dp"
         android:layout_height="250dp"
         android:layout_gravity="center"
@@ -25,5 +26,13 @@
         android:layout_gravity="bottom"
         android:layout_margin="40dp"
         />
+=======
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:background="#CC12C2"
+       />
+
+>>>>>>> d96f1e0d9ec1776e8b9e74a50889b7dcb183f2a1
 
 </LinearLayout>

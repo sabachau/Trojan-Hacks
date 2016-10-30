@@ -17,11 +17,14 @@ public class SecondActivity extends ActionBarActivity {
         final TextView textViewToChange = (TextView) findViewById(R.id.t1);
         textViewToChange.setText(
                 val1);
+<<<<<<< HEAD
         final TextView textViewToChange2 = (TextView) findViewById(R.id.t2);
         textViewToChange2.setText(List.getEvent(val1).getDate());
         final TextView textViewToChange3 = (TextView) findViewById(R.id.t3);
         textViewToChange3.setText(
                 List.getEvent(val1).getLocation());
+=======
+>>>>>>> d96f1e0d9ec1776e8b9e74a50889b7dcb183f2a1
     }
 
 

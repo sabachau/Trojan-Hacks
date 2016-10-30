@@ -20,10 +20,13 @@
             android:name=".SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".AddEventActivity"
             android:label="@string/title_activity_add_event" >
         </activity>
+=======
+>>>>>>> d96f1e0d9ec1776e8b9e74a50889b7dcb183f2a1
     </application>
 
 </manifest>
