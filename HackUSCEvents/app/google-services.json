@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "94366691397",
+    "project_id": "oval-precept-142221"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94366691397:android:c4143a6714370554",
+        "android_client_info": {
+          "package_name": "package.com.csaba.trojanhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94366691397-tipurr3aqnre523jppgvle4mj4mkcco6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "package.com.csaba.trojanhacks",
+            "certificate_hash": "BF958BD29A67AFFC43DA9FB5E8F8F37F6AE4EBCF"
+          }
+        },
+        {
+          "client_id": "94366691397-520shg619qqsj6g6ov23iolbctm1gh8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPJ_3TnX6X5tILomax9P6ZMee3w3JHqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94366691397:android:f3e9dcaa58ae264f",
+        "android_client_info": {
+          "package_name": "com.csaba.trojanhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94366691397-1h85hic65gng669a3s205rqs77tnf8r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csaba.trojanhacks",
+            "certificate_hash": "BF958BD29A67AFFC43DA9FB5E8F8F37F6AE4EBCF"
+          }
+        },
+        {
+          "client_id": "94366691397-520shg619qqsj6g6ov23iolbctm1gh8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPJ_3TnX6X5tILomax9P6ZMee3w3JHqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
