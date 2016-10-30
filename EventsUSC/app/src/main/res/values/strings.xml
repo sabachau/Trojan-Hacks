@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventsUSC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="events_disp">The Events around you are: </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
